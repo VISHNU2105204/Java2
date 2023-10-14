@@ -20,3 +20,5 @@ class Main {
 		System.out.println(ac);
 	}
 }
+
+//Output: Account balance: 22500.0
