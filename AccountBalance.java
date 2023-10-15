@@ -1,4 +1,7 @@
-package practice;
+/*Program4: Define a class Account which has balance as instance variable and methods to deposit and withdraw amount
+from an account. Override the toString method to display account balance.
+Define a main to demo the above class.*/
+
 
 class Account {
 	private double balance;
